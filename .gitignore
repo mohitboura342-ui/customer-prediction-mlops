@@ -26,4 +26,13 @@ Thumbs.db
 # Build/package files
 build/
 dist/
-*.egg-info/
+*.egg-info/*.py[cod]
+data/raw/
+data/processed/
+models/
+artifacts/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5

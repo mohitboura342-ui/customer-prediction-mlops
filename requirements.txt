@@ -1,9 +1,8 @@
 pandas
-numpy
-matplotlib
-seaborn
 scikit-learn
-jupyter
-ipykernel
-mlflow
-streamlit
+fastapi
+uvicorn
+pydantic
+joblib
+pytest
+httpx
